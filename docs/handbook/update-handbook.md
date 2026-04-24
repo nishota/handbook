@@ -10,4 +10,5 @@ sidebar_position: 4
 詳細な更新方法やAPI等は、[Docusaurus](https://docusaurus.io/)を参照する。
 
 ## 更新ルール
-// TODO: 2025/1/19現在では必要ない
+
+<!-- TODO: 2025/1/19現在では必要ない -->
