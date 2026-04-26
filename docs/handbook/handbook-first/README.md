@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # ハンドブックファースト
 
-ハンドブックを[Single Source of Thruth](./what-is-ssot)（SSoT, 唯一の信頼できる情報源）と位置付け、運用していく。
+ハンドブックを[Single Source of Truth](./what-is-ssot)（SSoT, 唯一の信頼できる情報源）と位置付け、運用していく。
 グループ全体のルールや情報をハンドブックに集約し、共通認識を形成するための基盤とする方針である。
 
 ## ハンドブックのガイドライン＝公式ルール
